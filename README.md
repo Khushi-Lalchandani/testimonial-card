@@ -4,7 +4,7 @@ A visually engaging testimonial cards UI built using HTML and CSS. This project 
 
 ## 🔗 Project URL
 
-[View Live Project](https://your-deployment-url.com)
+[https://roadmap.sh/projects/testimonial-cards](https://roadmap.sh/projects/testimonial-cards)
 
 ---
 
